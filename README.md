@@ -1,5 +1,4 @@
 # README Generator
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description
 The README Generator is a command-line application designed to help developers quickly create high-quality README files for their projects. By prompting the user for input, it dynamically generates a professional README with consistent formatting and content structure. This tool is ideal for streamlining the documentation process and ensuring clarity and professionalism in project presentation.
